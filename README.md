@@ -67,11 +67,12 @@ The project was executed in six major Agile-based phases:
 - ![Branch](https://github.com/user-attachments/assets/18575134-ac91-4421-935c-743b757687a5)
 - ![student per branch](https://github.com/user-attachments/assets/b7b5f067-2eae-4cad-87b1-fdebc2ea3e79)
 - Integrated **Facebook API** to track student engagement
-- ![API](https://github.com/user-attachments/assets/7a98f217-bed3-42e7-ab3d-5f255468f83b)
+- ![API](https://github.com/user-attachments/assets/2e6e6c94-a423-4875-a5bf-251f74d80701)
+
 - Exportable insights via Excel and Tableau
 ### 5️⃣ Gen AI Assistant  
 - Offline AI assistant using **SQLCoder-7B (gguf)**  
-![Gen AI 1](https://github.com/user-attachments/assets/6d6de9e2-8082-4b2a-86da-8142f67b99ed)
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/4e83d02f-d56b-4f6b-a419-e09fbe0b043b" />
 ![Gen AI 2](https://github.com/user-attachments/assets/b342f50b-5d96-4733-ac7a-786885e7f183)
 
 - 3 Modes:  

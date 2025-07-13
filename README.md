@@ -48,6 +48,7 @@ The project was executed in six major Agile-based phases:
 <img width="1242" height="463" alt="fact student answer" src="https://github.com/user-attachments/assets/41704ba6-ddd6-4c9c-8e9a-595a748033d0" />
 <img width="525" height="392" alt="Dim Student" src="https://github.com/user-attachments/assets/9090f084-5715-437f-a82b-8210ea0d2dd1" />
 <img width="535" height="388" alt="Dim instructor" src="https://github.com/user-attachments/assets/3f5e85c7-c297-4153-803f-1b846d724cf9" />
+
 - **SSAS** for cube building  
 - **SSRS** for paginated reports and analytics
 - <img width="826" height="767" alt="Screenshot 2025-07-12 232529" src="https://github.com/user-attachments/assets/4abcb9c0-70ab-47e4-bbcc-dd7999cda24a" />

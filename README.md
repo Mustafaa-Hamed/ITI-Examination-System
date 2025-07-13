@@ -74,7 +74,7 @@ The project was executed in six major Agile-based phases:
 - Offline AI assistant using **SQLCoder-7B (gguf)**  
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/4e83d02f-d56b-4f6b-a419-e09fbe0b043b" />
 
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/34c9d1b0-2059-42db-b2d8
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/f3c13dc2-4cc2-4d36-9426-b6e4d5763f16" />
 
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/1dc51fb3-6473-43e6-aa09-4543c5992def" />
 -039d1c3ce2d6" />

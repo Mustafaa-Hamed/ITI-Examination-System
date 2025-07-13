@@ -70,12 +70,16 @@ The project was executed in six major Agile-based phases:
 - ![API](https://github.com/user-attachments/assets/2e6e6c94-a423-4875-a5bf-251f74d80701)
 
 - Exportable insights via Excel and Tableau
-  
+- ![Tbleaue 1](https://github.com/user-attachments/assets/6ba7733a-0c23-494c-9cc8-716a7f119c82)
+
+- ![Tableaue 2](https://github.com/user-attachments/assets/7801ac10-341e-4e7e-b6f5-f36d62c03248)
+
 - <img width="567" height="719" alt="1" src="https://github.com/user-attachments/assets/b79a405c-57cb-45f0-889d-1e3730f56f70" />
 
 - <img width="560" height="724" alt="2" src="https://github.com/user-attachments/assets/7067a51c-bb30-4f1a-9687-0caa3de02f97" />
 
 - <img width="564" height="726" alt="3" src="https://github.com/user-attachments/assets/a1be37b7-b35d-4f7e-8b95-21616378ad48" />
+
 
 
 ### 5️⃣ Gen AI Assistant  
@@ -99,7 +103,18 @@ The project was executed in six major Agile-based phases:
 ### 6️⃣ Web Interface  
 - Dynamic web UI using **React** and **Tailwind CSS**  
 - Seamless access for students, instructors, and managers  
-- OLTP-integrated backend and Gen AI interface  
+- OLTP-integrated backend and Gen AI interface
+- <img width="1861" height="912" alt="download" src="https://github.com/user-attachments/assets/c5d404b3-c2f8-4d91-bdb1-54e9287bbc75" />
+
+- <img width="1920" height="861" alt="download (2)" src="https://github.com/user-attachments/assets/98d1ef70-528e-4cee-a150-0e621ca39071" />
+
+- <img width="1915" height="870" alt="Admin" src="https://github.com/user-attachments/assets/55f08979-4911-4f24-8460-1518ebf197e3" />
+
+- <img width="1920" height="940" alt="Register" src="https://github.com/user-attachments/assets/1b85512e-9b61-4503-a6ff-5eb8b331374c" />
+
+
+
+
 
 ---
 

@@ -34,6 +34,7 @@ The project was executed in six major Agile-based phases:
 
 ### 2️⃣ Database Design  
 - Designed full **ERD** for `Examination_OLTP`
+- ![Uploading ERD.drawio.png…]()
 -<img width="1210" height="790" alt="OLTP_Diagram" src="https://github.com/user-attachments/assets/3e9f3398-3876-41ec-afae-5350f83a490d" />
 - Created Galaxy Schema for `Examination_OLAP`
 - <img width="867" height="793" alt="olap model" src="https://github.com/user-attachments/assets/24059892-588e-4442-803c-5ae959f9d9d8" />

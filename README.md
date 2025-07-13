@@ -70,6 +70,14 @@ The project was executed in six major Agile-based phases:
 - ![API](https://github.com/user-attachments/assets/2e6e6c94-a423-4875-a5bf-251f74d80701)
 
 - Exportable insights via Excel and Tableau
+  
+- <img width="567" height="719" alt="1" src="https://github.com/user-attachments/assets/b79a405c-57cb-45f0-889d-1e3730f56f70" />
+
+- <img width="560" height="724" alt="2" src="https://github.com/user-attachments/assets/7067a51c-bb30-4f1a-9687-0caa3de02f97" />
+
+- <img width="564" height="726" alt="3" src="https://github.com/user-attachments/assets/a1be37b7-b35d-4f7e-8b95-21616378ad48" />
+
+
 ### 5️⃣ Gen AI Assistant  
 - Offline AI assistant using **SQLCoder-7B (gguf)**  
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/4e83d02f-d56b-4f6b-a419-e09fbe0b043b" />

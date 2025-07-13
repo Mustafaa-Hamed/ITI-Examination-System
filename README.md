@@ -85,7 +85,7 @@ The project was executed in six major Agile-based phases:
 ---
 
 ## 🖼️ Project Process Diagram  
-![Uploading Green and Beige Simple Project Presentation.png…]()
+<img width="1920" height="1080" alt="Green and Beige Simple Project Presentation" src="https://github.com/user-attachments/assets/e9752ebc-4036-4668-a757-ae4c3af29467" />
 
 ---
 

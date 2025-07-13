@@ -34,7 +34,7 @@ The project was executed in six major Agile-based phases:
 
 ### 2️⃣ Database Design  
 - Designed full **ERD** for `Examination_OLTP`
-- <img width="3962" height="2175" alt="ERD drawio" src="https://github.com/user-attachments/assets/c3bd98e1-11b3-4415-a1e4-aa9ec7217452" />
+-<img width="1210" height="790" alt="OLTP_Diagram" src="https://github.com/user-attachments/assets/3e9f3398-3876-41ec-afae-5350f83a490d" />
 - Created Galaxy Schema for `Examination_OLAP`
 - <img width="867" height="793" alt="olap model" src="https://github.com/user-attachments/assets/24059892-588e-4442-803c-5ae959f9d9d8" />
 - Documented mapping between transactional and analytical layers
@@ -61,11 +61,19 @@ The project was executed in six major Agile-based phases:
 - Exportable insights via Excel and Tableau
 
 ### 5️⃣ Gen AI Assistant  
-- Offline AI assistant using **SQLCoder-7B (gguf)**  
+- Offline AI assistant using **SQLCoder-7B (gguf)**
+-   <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/6d6de9e2-8082-4b2a-86da-8142f67b99ed" />
+-   <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/b342f50b-5d96-4733-ac7a-786885e7f183" />
+
 - 3 Modes:  
-  - **SQL Mode**: Natural Language → SQL  
-  - **Chat Mode**: General Assistant  
+  - **SQL Mode**: Natural Language → SQL
+  - <img width="995" height="770" alt="Mode_1" src="https://github.com/user-attachments/assets/201933fe-b92e-46b6-82c1-d8823cf4c19a" />
+
+  - **Chat Mode**: General Assistant
+  - <img width="996" height="776" alt="Mode_2" src="https://github.com/user-attachments/assets/9f4037b5-e16d-4a2a-a765-b9924caf0339" />
+
   - **Insight Mode**: Schema Optimization Tips
+  - <img width="1000" height="781" alt="Mode_3" src="https://github.com/user-attachments/assets/1a2ca7c0-5f0f-4ae9-8296-261fa0253fd0" />
 
 ### 6️⃣ Web Interface  
 - Dynamic web UI using **React** and **Tailwind CSS**  

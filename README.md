@@ -28,8 +28,9 @@ The project was executed in six major Agile-based phases:
 - Planned sprints and user stories in **Notion**  
 - Set up version control with **GitHub**
 - [SRS_Beta.Version 1.0.docx](https://github.com/user-attachments/files/21202016/SRS_Beta.Version.1.0.docx)
-![Sprints](https://github.com/user-attachments/assets/db87a9f7-50a2-4487-980d-7a3ed9f36f51)
-<img width="1864" height="870" alt="Daily_Stand" src="https://github.com/user-attachments/assets/353a3179-dc4a-4c5d-b067-0f263b29fe24" />
+- <img width="1864" height="870" alt="Daily_Stand" src="https://github.com/user-attachments/assets/353a3179-dc4a-4c5d-b067-0f263b29fe24" />
+<img width="1864" height="870" alt="Retrospective" src="https://github.com/user-attachments/assets/4952f5d3-e204-44dc-a426-cf66aaf0c82b" />
+
 
 ### 2️⃣ Database Design  
 - Designed full **ERD** for `Examination_OLTP`
@@ -37,7 +38,7 @@ The project was executed in six major Agile-based phases:
 - Created Galaxy Schema for `Examination_OLAP`
 - <img width="867" height="793" alt="olap model" src="https://github.com/user-attachments/assets/24059892-588e-4442-803c-5ae959f9d9d8" />
 - Documented mapping between transactional and analytical layers
-<img width="1593" height="1472" alt="Final Mapping" src="https://github.com/user-attachments/assets/c395d235-14dd-45a6-aad9-52310b0155a9" />
+- <img width="1593" height="1472" alt="Final Mapping" src="https://github.com/user-attachments/assets/c395d235-14dd-45a6-aad9-52310b0155a9" />
 
 ### 3️⃣ ETL & Reporting Tools  
 - **SSIS** for ETL from OLTP to OLAP

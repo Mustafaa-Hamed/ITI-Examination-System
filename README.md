@@ -85,7 +85,7 @@ The project was executed in six major Agile-based phases:
 ---
 
 ## 🖼️ Project Process Diagram  
-![Process Overview](documentation/project_process.png)
+![Uploading Green and Beige Simple Project Presentation.png…]()
 
 ---
 

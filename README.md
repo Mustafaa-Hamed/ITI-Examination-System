@@ -27,7 +27,7 @@ The project was executed in six major Agile-based phases:
 - Developed a professional **SRS Document**  
 - Planned sprints and user stories in **Notion**  
 - Set up version control with **GitHub**
-[SRS_Beta.Version 1.0.docx](https://github.com/user-attachments/files/21202016/SRS_Beta.Version.1.0.docx)
+- [SRS_Beta.Version 1.0.docx](https://github.com/user-attachments/files/21202016/SRS_Beta.Version.1.0.docx)
 ![Sprints](https://github.com/user-attachments/assets/db87a9f7-50a2-4487-980d-7a3ed9f36f51)
 <img width="1864" height="870" alt="Daily_Stand" src="https://github.com/user-attachments/assets/353a3179-dc4a-4c5d-b067-0f263b29fe24" />
 

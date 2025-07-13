@@ -59,10 +59,16 @@ The project was executed in six major Agile-based phases:
 ![SSRS 5](https://github.com/user-attachments/assets/ebd44c23-9190-4cb4-b217-cb8cffbcc944)
 
 ### 4️⃣ Dashboards & Analytics  
-- Developed 25+ dashboards using **Power BI**  
-- Integrated **Facebook API** to track student engagement  
+- Developed 25+ dashboards using **Power BI**
+- ![Instructor](https://github.com/user-attachments/assets/77773f33-3aca-4b41-a70f-f138cf3c3b06)
+- ![Instructor 2](https://github.com/user-attachments/assets/33cb0499-2497-44f8-980e-b5de91fa3344)
+- ![Instructor 4](https://github.com/user-attachments/assets/10221c51-980e-428d-9444-04dce530b05c)
+-![branch 2](https://github.com/user-attachments/assets/64047fed-8fc6-4a14-95e4-5d96e2a80ae1)
+- ![Branch](https://github.com/user-attachments/assets/18575134-ac91-4421-935c-743b757687a5)
+- ![student per branch](https://github.com/user-attachments/assets/b7b5f067-2eae-4cad-87b1-fdebc2ea3e79)
+- Integrated **Facebook API** to track student engagement
+- ![API](https://github.com/user-attachments/assets/7a98f217-bed3-42e7-ab3d-5f255468f83b)
 - Exportable insights via Excel and Tableau
-
 ### 5️⃣ Gen AI Assistant  
 - Offline AI assistant using **SQLCoder-7B (gguf)**  
 ![Gen AI 1](https://github.com/user-attachments/assets/6d6de9e2-8082-4b2a-86da-8142f67b99ed)

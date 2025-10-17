@@ -186,5 +186,3 @@ ITI-Examination-System/
 └── facebook-api/
     └── fb_api_integration.py
 ```
-<img width="1207" height="782" alt="Screenshot 2025-10-17 220129" src="https://github.com/user-attachments/assets/0e0c689e-6f6e-42a2-b217-831b660df958" />
-
